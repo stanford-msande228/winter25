@@ -47,7 +47,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 * Textbook: [causalml-book](https://causalml-book.org)
 * Full schedule and presentations: [schedule](https://stanford-msande228.github.io/winter25/calendar/)
 * Discussion and homework material: [canvas](https://canvas.stanford.edu/)
-* Submissions: [Gradescope](https://www.gradescope.com/courses/701783)
+* Submissions: [Gradescope](https://www.gradescope.com/courses/942679)
 * Example Code and Notebooks: [Github](https://github.com/CausalAIBook/MetricsMLNotebooks)
 
 ### Prior Offerings
