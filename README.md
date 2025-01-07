@@ -12,8 +12,8 @@ seo:
 
 Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E  
 Units: 3  
-Winter Quarter 2024  
-Tue, Thu 3:00-4:20PM 370-370
+Winter Quarter 2025  
+Tue, Thu 3:00-4:20PM 200-002
 
 **Description:**  
 The course will cover fundamentals of modern applied causal inference. Basic principles of causal inference and machine learning and how the two can be combined in practice to deliver causal insights and policy implications in real world datasets, allowing for high-dimensionality and flexible estimation. Lectures will provide foundations of these new methodologies and the course assignments will involve real world data and synthetic data analysis based on these methodologies. 
