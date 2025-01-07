@@ -18,8 +18,6 @@ Feb 4
 - [Partial Identification with Implicit Generative Models](https://arxiv.org/abs/2210.08139)
 
 Feb 6
-: **Homework**{: .label .label-red } HW2 Due
-
 : **Lecture**{: .label .label-green } Valid Adjustments Sets from DAGs
 : Single World Intervention Graphs (SWIGs); Graphical criteria for valid adjustment sets; Good and Bad controls
 : ***Reading Materials***
