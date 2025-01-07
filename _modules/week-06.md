@@ -1,6 +1,9 @@
 ---
 title: Week 6
 ---
+Feb 10
+: **Homework**{: .label .label-blue } HW5 Released
+
 Feb 11
 : **Homework**{: .label .label-red } HW4 Due
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction

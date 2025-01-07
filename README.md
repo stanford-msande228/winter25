@@ -26,25 +26,26 @@ The course will cover fundamentals of modern applied causal inference. Basic pri
 
 |                   | Time                       | Location       |
 |-------------------|----------------------------|-----------     |
-| Vasilis Syrgkanis | Friday 11am-12pm           | Huang 252      |
-| Hui Lan           | Thursday 4:30pm-5:30pm     | Y2E2 335       |
-| Justin Young  | Wednesday 1pm-2pm | 160-325 |
+| Vasilis Syrgkanis | Friday 1pm-2pm           | Huang 252      |
+| Hui Lan           | TBD     | TBD       |
+| Jikai Jin  | TBD | TBD |
  
 
 ### Format
 
-The course will consist of lectures and homework assignments. Lectures will be held in person and will not be recorded. The lectures will cover fundamentals that fuse classical structural equation models (SEMs) and DAGs, with tools for statistical inference based on machine learning  (lasso, random forest, deep neural networks)  to infer causal parameters and quantify uncertainty. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve either mathematical proofs or coding exercises.  
+The course will consist of lectures and homework assignments. Lectures will be held in person and will not be recorded. The lectures will cover fundamentals that fuse classical structural equation models (SEMs) and DAGs, with tools for statistical inference based on machine learning  (lasso, random forest, deep neural networks)  to infer causal parameters and quantify uncertainty. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 8 homeworks, rolled out roughly on a weekly basis, that will involve either mathematical proofs or coding exercises.  
 
  
 
 ### Grading
 
 * Homework 90%
-* Participation 10%
+* Participation 10% (in class polls)
 
 ### Course webpages
 
-* Full schedule and presentations: [schedule](https://stanford-msande228.github.io/winter24/calendar/)
+* Textbook: [causalml-book](https://causalml-book.org)
+* Full schedule and presentations: [schedule](https://stanford-msande228.github.io/winter25/calendar/)
 * Discussion and homework material: [canvas](https://canvas.stanford.edu/)
 * Submissions: [Gradescope](https://www.gradescope.com/courses/701783)
 * Example Code and Notebooks: [Github](https://github.com/CausalAIBook/MetricsMLNotebooks)
@@ -55,7 +56,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 
 ### Problem sets
 
-There will be a total of 7 or 8 problem sets. Problem sets must be submitted online through Gradescope [gradescope](https://www.gradescope.com/courses/486969/).  Problem set sheets will also be posted on Canvas.
+There will be a total of 8 problem sets. Problem sets must be submitted online through Gradescope [gradescope](https://www.gradescope.com/courses/486969/).  Problem set sheets will also be posted on Canvas.
 
 Depending on their length, the total number of points in each set might vary. Each part of each problem will be graded as follows:
 * You will receive zero points if you do not attempt it.
@@ -141,75 +142,7 @@ Here is an assortment of other books that you may find useful to consult but whi
 * Imbens and Rubin, [Causal Inference for Statistics, Social, and Biomedical Sciences](http://www.cambridge.org/US/academic/subjects/statistics-probability/statistical-theory-and-methods/causal-inference-statistics-social-and-biomedical-sciences-introduction)
 * Angrist and Pischke, [Mostly Harmless Econometrics](http://www.mostlyharmlesseconometrics.com/)
 
-# Course Plan
 
-**Lecture 1:** Introduction; case studies; importance of causality; importance of handling high dimensional data/flexible modeling;
-
- 
-
-### Experiments and causality
-
-**Lecture 2:** Causality via Experiments; Potential Outcomes framework; Two means estimate and confidence interval/asymptotic distribution; limitations of trials; what if we have pre-treatment co-variates: precision and heterogeneity
-
- 
-### Inference with linear models
-
-**Lecture 3:** Basics of statistical inference in linear models; confidence intervals for p << n; simultaneous confidence bands; interpretation of coefficient as partialling out; inference on ATE from trials via regression; Revisiting the role of covariates in randomized trials: precision and heterogeneity: variance characterization and comparisons
-
-**Lecture 4:** High dimensional methods and prediction; regularization; lasso; elasticnet;
-
-**Lecture 5:** Inference in high-dimensional methods; double lasso; partialling out; intro to Neyman orthogonality
-
- 
-### Observational data, causality, DAGs
-
-**Lecture 6:** Causality in observational data; confounding; conditional ignorability;  identification by conditioning; identification via propensity scores
-
-**Lecture 7:** Structural equations models and DAGs; basics of DAGs; conditional ignorability in DAGs; Good and Bad controls
-
-**Lecture 8:** General DAGs and Counterfactuals; SWIGs; D-separation; Interventions; Re-visting identification by conditioning
-
-**Lecture 9:** Graphical criteria for valid adjustment sets; Good and Bad Controls
- 
-
-### ML estimation of non-linear models
-
-**Lecture 10:** Modern methods for non-linear prediction: trees and forests; neural networks; feature engineering; some guarantees
-
-**Lecture 11:** Ensembling; stacking; auto-ML
-
- 
-
-### Statistical inference with non-linear models
-
-**Lecture 12:** DML for PLR and fully non-linear for ATE; Generic debiased ML framework
-
- 
-
-### Unobserved Confounding
-
-**Lecture 13:** Omitted variable bias;  Instrumental variables; LATE; proximal inference
-
-**Lecture 14:** Inference in PL IV and non-linear IV models; inference with weak instruments; DML with weak identification
-
- 
-
-### Heterogeneous Effects and Policy Learning
-
-**Lecture 15:** CATE methods; meta learners; neural network methods; policy learning
-
-**Lecture 16:** Evaluation and model selection of CATE methods; for Trials; for Observational Data
-
-
-### Further Topics (Subject to change)
-
-**Lecture 17:** Censoring
-
-**Lecture 18:** Dynamic regime; Optimal regime; off-policy RL; Surrogates
-
-**Lecture 19:** More structural approaches to un-observed confounding: diff-in-diff; synthetic controls; regression discontinuity (soft RD)
-
-**Lecture 20:** TBA
 
 
 
