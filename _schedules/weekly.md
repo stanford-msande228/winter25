@@ -20,7 +20,19 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Office Hours
+        start: 9:30 AM
+        end: 11:00 AM
+        location: 380-381U (TBC)
+        staff: Jikai
   - name: Tuesday
+    events:
+      - name: Office Hours
+        start: 1:30 PM
+        end: 3:00 PM
+        location: 380-381U (TBC)
+        staff: Hui
     events:
       - name: Lecture
         start: 3:00 PM
