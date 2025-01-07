@@ -25,10 +25,10 @@ The course will cover fundamentals of modern applied causal inference. Basic pri
 ### Office Hours:  (Starting Week 2)
 
 |                   | Time                       | Location       |
-|-------------------|----------------------------|-----------     |
-| Vasilis Syrgkanis | Friday 1pm-2pm           | Huang 252      |
-| Hui Lan           | TBD     | TBD       |
-| Jikai Jin  | TBD | TBD |
+|-------------------|----------------------------|----------------|
+| Vasilis Syrgkanis | Friday 1pm-2pm             | Huang 252      |
+| Hui Lan           | Tuesday 1.30pm-3pm         | 380-381U (TBC) |
+| Jikai Jin         | Monday 9.30am-11am         | 380-381U (TBC) |
  
 
 ### Format
@@ -40,7 +40,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 ### Grading
 
 * Homework 90%
-* Participation 10% (in class polls)
+* Participation 10% (participate in at least 50% of in class polls)
 
 ### Course webpages
 
