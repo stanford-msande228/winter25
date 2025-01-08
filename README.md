@@ -52,7 +52,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 
 ### Prior Offerings
 
-* [Winter 2023](https://stanford-msande228.github.io/winter24/)
+* [Winter 2024](https://stanford-msande228.github.io/winter24/)
 * [Winter 2023](https://stanford-msande228.github.io/winter23/)
 
 ### Problem sets
