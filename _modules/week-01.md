@@ -17,6 +17,7 @@ Jan 9
 : **Lecture 1**{: .label .label-green } Causality via Experiments
   : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture2_Causality_via_Experiments.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture2_Causality_via_Experiments.pdf)
+  : [[Demo Code]](https://github.com/stanford-msande228/winter25/blob/main/Lecture1-Demo.ipynb)
 : ***Reading Materials***
 - Chapter 2 of [Textbook](https://causalml-book.org)
 : ***Coding Materials***
