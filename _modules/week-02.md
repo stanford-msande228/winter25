@@ -7,6 +7,10 @@ Jan 13
 
 Jan 14
 : **Lecture**{: .label .label-green } Inference in linear models
+
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture3_Inference_in_Linear_Models.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture3_Inference_in_Linear_Models.pdf)
+  : [[Demo Code]](https://colab.research.google.com/github/stanford-msande228/winter24/raw/main/assets/code/Lecture3-Demo.ipynb)
 : Basics of statistical inference in linear models; confidence intervals for p « n; interpretation of coefficient as partialling out; inference on ATE from trials via regression; Revisiting the role of covariates in randomized trials: precision and heterogeneity: variance characterization and comparisons
 : ***Reading Materials***
 - Chapter 1 of [Textbook](https://causalml-book.org)
