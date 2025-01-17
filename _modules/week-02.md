@@ -29,6 +29,7 @@ Jan 16
   : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture4_Analyzing_Experiments_with_OLS.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture4_Analyzing_Experiments_with_OLS.pdf)
   : [[Demo Code]](https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/python-sim-precision-adj.ipynb)
+  : [[Demo Code]](https://colab.research.google.com/github/stanford-msande228/winter25/blob/main/assets/code/Lecture4_Demo_Code.ipynb)
 : ***Reading Materials***
 - Chapter 1 of [Textbook](https://causalml-book.org)
 : ***Coding Materials***
