@@ -7,7 +7,10 @@ Jan 20
 
 Jan 21
 : **Homework**{: .label .label-red } HW1 Due
-: **Lecture**{: .label .label-green } Prediction in high dimensional linear models
+: **Lecture**{: .label .label-green } Prediction with high dimensional linear models
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture5_Prediction_with_Linear_Models.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture5_Prediction_with_Linear_Models.pdf)
+  : [[Demo Code]](https://colab.research.google.com/github/stanford-msande228/winter25/blob/main/assets/code/Lecture5-Demo.ipynb)
 : High dimensional methods and prediction; regularization; lasso; elasticnet;
 : ***Reading Materials***
 - Chapter 3 of [Textbook](https://causalml-book.org)
