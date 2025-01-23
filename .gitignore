@@ -8,3 +8,5 @@ _site/
 node_modules/
 vendor/
 /assets/presentations/backup
+/assets/code/.ipynb_checkpoints
+/assets/code/hdmpy

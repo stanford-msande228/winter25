@@ -20,6 +20,9 @@ Jan 21
 
 Jan 23
 : **Lecture**{: .label .label-green } Inference in high-dimensional linear models
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture6_Inference_in_High_Dimensional_Linear_Models.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture6_Inference_in_High_Dimensional_Linear_Models.pdf)
+  : [[Demo Code]](https://colab.research.google.com/github/stanford-msande228/winter25/blob/main/assets/code/Lecture6-Demo.ipynb)
 : double lasso; partialling out; intro to Neyman orthogonality; joint inference on multiple parameters
 : ***Reading Materials***
 - Chapter 4 of [Textbook](https://causalml-book.org)
