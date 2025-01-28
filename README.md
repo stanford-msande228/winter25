@@ -27,7 +27,7 @@ The course will cover fundamentals of modern applied causal inference. Basic pri
 |                    | Time                       | Location       |
 |--------------------|----------------------------|----------------|
 | Vasilis Syrgkanis  | Friday 1pm-2pm             | Huang 252      |
-| Hui Lan            | Tuesday 1.15pm-2.45pm      | MCCULL 155     |
+| Hui Lan            | Tuesday 1.15pm-2.45pm      | MCCULL 115     |
 | Jikai Jin          | Monday 9.30am-11am         | 380-381U       |
 | Axel Durand-Allize | Monday 4.30pm-6pm          | Huang 203      |
  
