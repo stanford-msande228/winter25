@@ -20,6 +20,8 @@ Jan 28
 
 Jan 30
 : **Lecture**{: .label .label-green } Structural Equations Models and DAGs
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture8_Structural_Equation_Models.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture8_Structural_Equation_Models.pdf)
 : language of structural equation models (SEMs); conditional exogeneity; language of interventions and "fixing"; direct and in-direct effects
 : ***Reading Materials***
 - Chapter 6 of [Textbook](https://causalml-book.org)
