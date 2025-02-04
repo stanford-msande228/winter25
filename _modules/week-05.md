@@ -7,7 +7,9 @@ Feb 3
 Feb 4
 : **Homework**{: .label .label-red } HW3 Due
 : **Lecture**{: .label .label-green } General DAGs and Counterfactuals
-: Single World Intervention Graphs (SWIGs); D-separation; Interventions; Re-visting identification by conditioning; Proof of D-separation implies conditional independence
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture9_DAGs.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture9_DAGs.pdf)
+: Single World Intervention Graphs (SWIGs); D-separation; Interventions; Re-visting identification by conditioning; Valid adjustment sets from DAGs
 : ***Reading Materials***
 - Chapter 7 of [Textbook](https://causalml-book.org)
 : ***Further Reading***
