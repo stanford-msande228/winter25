@@ -21,6 +21,8 @@ Feb 4
 
 Feb 6
 : **Lecture**{: .label .label-green } Valid Adjustments Sets from DAGs
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture10_Valid_Adjustment_Sets.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture10_Valid_Adjustment_Sets.pdf)
 : Single World Intervention Graphs (SWIGs); Graphical criteria for valid adjustment sets; Good and Bad controls
 : ***Reading Materials***
 - Chapter 8 of [Textbook](https://causalml-book.org)
