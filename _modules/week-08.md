@@ -2,10 +2,10 @@
 title: Week 8
 ---
 Feb 24
-: **Homework**{: .label .label-blue } HW7 Released
+: **Homework**{: .label .label-blue } HW6 Released
 
 Feb 25
-: **Homework**{: .label .label-red } HW6 Due
+: **Homework**{: .label .label-red } HW5 Due
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
 : Omitted Variable Bias; Instrumental variables;
 : ***Reading Materials***
