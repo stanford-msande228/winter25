@@ -1,11 +1,8 @@
 ---
 title: Week 7
 ---
-Feb 17
-: **Homework**{: .label .label-blue } HW6 Released
 
 Feb 18
-: **Homework**{: .label .label-red } HW5 Due
 : **Lecture**{: .label .label-green } Statistical inference with non-linear models
 : Debiased ML for ATE under partially linear and fully non-linear models; Generic debiased ML framework
 : ***Reading Materials***
