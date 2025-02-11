@@ -2,10 +2,10 @@
 title: Week 9
 ---
 Mar 3
-: **Homework**{: .label .label-blue } HW8 Released
+: **Homework**{: .label .label-blue } HW7 Released
 
 Mar 4
-: **Homework**{: .label .label-red } HW7 Due
+: **Homework**{: .label .label-red } HW6 Due
 : **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning
 : Estimation of Conditional Average Treatment Effects (CATE); Best Linear CATE; Inference on Best Linear CATE
 : ***Reading Materials***
