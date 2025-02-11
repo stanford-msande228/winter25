@@ -7,6 +7,9 @@ Feb 10
 Feb 11
 : **Homework**{: .label .label-red } HW4 Due
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture11_Modern_Nonlinear_Prediction.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture11_Modern_Nonlinear_Prediction.pdf)
+  : [[Demo Code]](https://colab.research.google.com/github/stanford-msande228/winter25/blob/main/assets/code/Lecture11-Demo.ipynb)
 : trees and forests;
 : ***Reading Materials***
 - Chapter 9 of [Textbook](https://causalml-book.org)
