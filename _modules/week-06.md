@@ -19,6 +19,9 @@ Feb 11
 
 Feb 13
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction 2
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture12_Modern_Nonlinear_Prediction_NNets.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture12_Modern_Nonlinear_Prediction_NNets.pdf)
+  : [[Demo Code]](https://colab.research.google.com/github/stanford-msande228/winter25/blob/main/assets/code/Lecture11-Demo.ipynb)
 : neural networks; stacking; auto-ml; feature engineering and pre-trained models
 : ***Reading Materials***
 - Chapter 11 of [Textbook](https://causalml-book.org)
