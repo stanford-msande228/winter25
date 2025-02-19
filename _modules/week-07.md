@@ -14,6 +14,7 @@ Feb 18
 
 Feb 20
 : **Lecture**{: .label .label-green } Statistical inference with non-linear models 2
+  : [[Demo Code]](https://colab.research.google.com/github/stanford-msande228/winter25/blob/main/assets/code/Lecture14-Demo.ipynb)
 : Finalizing theory; Examples; segway to unobserved confounding and omitted variable bias;
 : ***Reading Materials***
 - Chapter 10 of [Textbook](https://causalml-book.org)
