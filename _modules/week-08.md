@@ -7,6 +7,8 @@ Feb 24
 Feb 25
 : **Homework**{: .label .label-red } HW5 Due
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture15_Unobserved_Confounding.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture15_Unobserved_Confounding.pdf)
 : Omitted Variable Bias; Instrumental variables;
 : ***Reading Materials***
 - Chapter 12 of [Textbook](https://causalml-book.org)
