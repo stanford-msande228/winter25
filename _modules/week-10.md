@@ -3,21 +3,10 @@ title: Week 10
 ---
 
 Mar 11
-: **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning 3
-: neural network methods; Evaluation and model selection of CATE methods; policy learning;
-: ***Reading Materials***
-- Chapter 15 of [Textbook](https://causalml-book.org)
-: ***Further Reading***
-- [Policy Learning from Obsevational Data](https://arxiv.org/abs/1702.02896)
-- [Generic ML Inferenc on CATE](https://arxiv.org/abs/1712.04802)
-- [Orthogonal Statistical Learning, DR-Learner](https://arxiv.org/abs/1901.09036)
-- [Stable Discovery of Interpretable Subgroups, Calibration Score](https://onlinelibrary.wiley.com/doi/10.1111/insr.12427)
-- [Empirical Analysis of Model Selection for CATE](https://arxiv.org/abs/2211.01939)
-- [Evaluating CATE via prioritization scores, QINI, TOC](https://arxiv.org/abs/2111.07966)
-: ***Coding Materials***
-- [Estimation, Evaluation and Validation of CATE models](https://colab.research.google.com/github/stanford-msande228/winter24/blob/main/assets/code/CATE-estimation.ipynb)
-- [Auxiliary python script needed for demo and CATE notebook code](https://colab.research.google.com/github/stanford-msande228/winter24/blob/main/assets/code/myflaml.py)
-- [Auxiliary python script needed for demo and CATE notebook code](https://colab.research.google.com/github/stanford-msande228/winter24/blob/main/assets/code/datasets.py)
+: **Lecture**{: .label .label-green } Topics on Longitudinal Data and Causal ML
+  : [[PPTX]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture19_Dynamic_Treatment_Regime.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter25/raw/main/assets/presentations/MSANDE228_Lecture19_Dynamic_Treatment_Regime.pdf)
+: Dynamic Treatment Effects, Surrogates
 
 Mar 13
 : **Lecture**{: .label .label-green } Advanced Topics
